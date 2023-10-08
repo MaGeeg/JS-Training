@@ -1,0 +1,1 @@
+Helko, plik ex3 został stworzony przez funkcję writeFileSync i też tu mogę zmieniać jego tekst.Zmiana następuje po uruchomieniu terminala
