@@ -1,25 +1,17 @@
 # JS Training
-Task provided by [jaktestowac.pl](https://jaktestowac.pl/course/javascript-dla-testera/)
 
+Task provided by [jaktestowac.pl](link)
 
-# Overview
-Documentation available in Polish.
+This is a collection of my solutions to the course tasks with some notes in theory section.
 
-Tasks available in English.
-<br>
-# General requirements
+## Prerequirements
 
-Preparation of the environment
+You need to have `node` preinstalled (tested on <version>)
 
-node.js Framework for writing applications and tests in JavaScript
+## How to run
 
-<br>
-Download and install 
-
-- Latest version of ([node.js](https://nodejs.org/en/))
-  - After installation, make sure that node.js is added to the PATH environment variable
-
-- VS Code (https://code.visualstudio.com/)
+1. Execute `npm install` in the project direcory to install required node packages.
+2. You can use scripts to run selected file, eg. `npm run ts1e1` will run the 1st example in the 1st theory section, `npm run es1e1` will run the 1st exercise. See `package.json` for more details./code.visualstudio.com/)
 
 
 
