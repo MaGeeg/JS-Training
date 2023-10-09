@@ -9,14 +9,14 @@ Tasks available in English.
 <br>
 # General requirements
 
-Preparation of the environment – installation of node.js (https://nodejs.org/en/)
+Preparation of the environment
 
-Framework for writing applications and tests in JavaScript
+node.js Framework for writing applications and tests in JavaScript
 
 <br>
 Download and install 
 
-- Latest version of (node.js)
+- Latest version of ([node.js](https://nodejs.org/en/))
   - After installation, make sure that node.js is added to the PATH environment variable
 
 - VS Code (https://code.visualstudio.com/)
