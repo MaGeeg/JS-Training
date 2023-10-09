@@ -9,8 +9,11 @@ This is a collection of my solutions to the course tasks with some notes in theo
 JavaScript for Testers was created for the wannabe a software testers. It teaches 
 
 - **Language syntax:** variables, data types, operators, conditional statements, loops.
-- **Functions:** creating functions, arguments, return values.
+- **Functions:** creating functions, arguments, return values, async, await
 - **Arrays and objects:** data operations, data manipulation in arrays and objects
+- **Conditional instructions:** if, switch, equality
+- **Objects:** properties, structures (key, value), JSON, constructor - initialization of object properties 'new' 
+- **Classes:** defining objects and functions (methods) 
 
 ## Prerequirements
 
