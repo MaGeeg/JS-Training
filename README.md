@@ -2,7 +2,13 @@
 
 ## Overview
 
-Tasks provided by [jaktestowac.pl](https://jaktestowac.pl/course/javascript-dla-testera/)
+Tasks provided by: 
+
+[jaktestowac.pl](https://jaktestowac.pl/course/javascript-dla-testera/)
+
+This is a part of Program:
+
+[Testy Automatyczne z Playwright](https://jaktestowac.pl/playwright/)
 
 This is a collection of my solutions to the course tasks with some notes in theory section.
 
