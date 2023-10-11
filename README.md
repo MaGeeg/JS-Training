@@ -2,6 +2,8 @@
 
 ## Overview
 
+Test project for training and learning JavaScript for testers.
+
 Tasks provided by: 
 
 [jaktestowac.pl](https://jaktestowac.pl/course/javascript-dla-testera/)
